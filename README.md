@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there 😄👋
+ - I'm Goyo, a self-taught learner in AI and machine learning 
+ 
+ - I have a background in Electrical Engineering and currently pursuing a Master's degree in Fintech. However, my true interest lies in the world of AI.
+
+ - Through my GitHub account, I explore and learn new techniques and algorithms in my spare time. My goal is to contribute my knowledge to larger-scale projects and achieve great things.
+
 
 <!--
 **McGregory99/McGregory99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

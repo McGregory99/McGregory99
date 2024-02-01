@@ -4,9 +4,9 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/McGregory99?label=Follow)](https://twitter.com/intent/follow?screen_name=McGregory99)
+[![Linkedin: anmol](https://img.shields.io/badge/-McGregory99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goyocancio/)](https://www.linkedin.com/in/goyocancio/)
+![GitHub followers](https://img.shields.io/github/followers/McGregory99?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
@@ -70,25 +70,7 @@ const anmol = {
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                1700 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
-🌃 Evening                1412 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
-🌙 Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Tuesday                  526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Wednesday                792 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Thursday                 521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Saturday                 570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Sunday                   911 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-```
 
 
 📊 **This Week I Spent My Time On** 

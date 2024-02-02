@@ -1,8 +1,8 @@
-<p>I'm Goyo Cancio!
+<h2>I'm Goyo Cancio!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
+</h2>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/McGregory99?label=Follow)](https://twitter.com/intent/follow?screen_name=McGregory99)
 [![Linkedin: goyocancio](https://img.shields.io/badge/-goyocancio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goyocancio/)](https://www.linkedin.com/in/goyocancio/)

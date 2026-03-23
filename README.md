@@ -24,7 +24,7 @@ Visit my website at 👉 [www.goyocancio.es](https://www.goyocancio.es)
 
 ## 🚀 Featured Projects
 
-### [Blockhead](https://blockhead.app)
+### [Blockhead](https:v0-blockhead.vercel.app/es)
 
 **Turn your photo into a Minecraft-style image & video**
 – Upload a photo, pay once, and get back a voxel-style image and a short cinematic animation.
@@ -46,7 +46,7 @@ Tech: `Next.js`, `Tailwind`, `FastAPI`, `Stripe`, `Replicate`, `OpenAI`, `Kling`
 * Wrapped into a small image-generation tool for friends & family
 * Explored potential product ideas around AI pets
 
-### [Castle Visitors Monitoring System](#)
+### Castle Visitors Monitoring System
 
 **Automated monitoring system with a hidden camera in a fake rock**
 
@@ -54,7 +54,7 @@ Tech: `Next.js`, `Tailwind`, `FastAPI`, `Stripe`, `Replicate`, `OpenAI`, `Kling`
 * Tools: `Python`, `OpenCV`, `YOLOv5`
 * Solved hardware-software integration in a discreet setup
 
-### [Financial Report Web Scraper & Sentiment Analyzer](#)
+### Financial Report Web Scraper & Sentiment Analyzer
 
 **Web app for downloading and analyzing investment fund reports**
 

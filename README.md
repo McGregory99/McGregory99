@@ -24,7 +24,7 @@ Visit my website at 👉 [www.goyocancio.es](https://www.goyocancio.es)
 
 ## 🚀 Featured Projects
 
-### [Blockhead](https:v0-blockhead.vercel.app/es)
+### [Blockhead](https://v0-blockhead.vercel.app/es)
 
 **Turn your photo into a Minecraft-style image & video**
 – Upload a photo, pay once, and get back a voxel-style image and a short cinematic animation.
